@@ -1,4 +1,4 @@
-html {
+/* html {
     box-sizing: border-box;
   }
   
@@ -6,7 +6,7 @@ html {
   ::after,
   ::before {
     box-sizing: inherit;
-  }
+  } */
 
 .body{
     background-color:rgb(234, 226, 216);
