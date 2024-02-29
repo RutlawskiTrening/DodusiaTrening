@@ -1,0 +1,31 @@
+.header{
+    border: 2px solid blanchedalmond;
+    background-color: rgb(244, 219, 181);
+    padding: 2%;
+    text-align: center;
+}
+.wtorek{
+    border:2px solid blanchedalmond;
+    background-color: rgb(244, 219, 181);
+    padding: 0,5%;
+    text-align: center;
+    color: rgb(98, 12, 12);
+}
+.czwartek{
+    border:2px solid blanchedalmond;
+    background-color: rgb(244, 219, 181);
+    padding: 0,5%;
+    text-align: center;
+    color: rgb(98, 12, 12);
+}
+.sobota{
+    border:2px solid blanchedalmond;
+    background-color: rgb(244, 219, 181);
+    padding: 0,5%;
+    text-align: center;
+    color: rgb(98, 12, 12);
+}
+.header3{
+    font-weight: bolder;
+    font-size: larger;
+}

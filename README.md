@@ -1,0 +1,4 @@
+# treningDodusi
+# DodusiaTrening
+# DodusiaTrening
+# DodusiaTrening
